@@ -1,0 +1,15 @@
+.client-container {
+  text-align: center;
+  padding: 2rem 5rem;
+}
+
+.client-images-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.card-image {
+  margin: 0.5rem;
+}

@@ -1,0 +1,11 @@
+.team-container {
+  /* text-align: center; */
+  padding: 2rem 5rem;
+}
+
+.team-details-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,9 @@
+.news-card-title {
+  color: #5fafe8;
+}
+
+.news-card-description {
+  color: black;
+  text-decoration: underline;
+  cursor: pointer;
+}

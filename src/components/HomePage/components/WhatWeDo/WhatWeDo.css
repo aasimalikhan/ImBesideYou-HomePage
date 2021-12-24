@@ -1,0 +1,15 @@
+.services-image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.services-container {
+  padding: 2rem 5rem;
+}
+
+.services-image-container img {
+  height: 350px;
+  margin: 1rem;
+}

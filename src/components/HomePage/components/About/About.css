@@ -1,0 +1,38 @@
+.main-container {
+  text-align: center;
+  padding: 2rem 5rem;
+}
+
+.main-subcontainer {
+  margin-bottom: 1rem;
+}
+.main-subheading {
+  line-height: 2;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.main-heading {
+  font-size: 2rem;
+}
+
+.main-sub-text {
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+.main-button {
+  padding: 1rem 1.7rem;
+  font-size: 1rem;
+  border-radius: 2rem;
+  cursor: pointer;
+  border: none;
+  background: #e1c7b4;
+  letter-spacing: 0.1rem;
+  font-weight: 400;
+}
+
+.main-section-image {
+  width: 100%;
+}

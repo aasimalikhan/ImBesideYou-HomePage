@@ -2,9 +2,29 @@
   text-align: center;
 }
 
+.app-heading {
+  font-size: 2rem;
+  padding: 0.3rem;
+  border-bottom: 2px solid orange;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+}
+
+.app-subheading {
+  text-align: center;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.not-found {
+  min-height: calc(100vh - 240px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
 }
 
 @media (prefers-reduced-motion: no-preference) {

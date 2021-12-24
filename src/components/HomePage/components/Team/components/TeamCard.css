@@ -1,0 +1,36 @@
+.team-card {
+  margin: 1rem;
+}
+
+.team-card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  flex-direction: column;
+  max-width: 260px;
+  min-height: 250px;
+  background: #f4ece4;
+  padding: 0.5rem;
+  padding-top: 1.5rem;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.team-card img {
+  display: block;
+  margin: auto;
+  position: relative;
+  top: 40px;
+  height: 150px;
+}
+
+.team-card-name {
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+.list-details {
+  text-align: left;
+  font-size: 0.8rem;
+}
