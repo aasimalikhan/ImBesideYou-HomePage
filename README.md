@@ -1,9 +1,9 @@
 # ImBesideYou [Demo](https://xenodochial-leavitt-031bec.netlify.app/)
 
-# Design
+# Design [File](https://drive.google.com/file/d/1qbPfuuTMmhw_5VzUpmqiUcrdpGbnHl4b/view?usp=sharing)
 
 I have chosen to create the Data Model for IBY Home Page and it is inside the public folder
-I have also attached a drive link 
+I have also attached a drive link [Design file](https://drive.google.com/file/d/1qbPfuuTMmhw_5VzUpmqiUcrdpGbnHl4b/view?usp=sharing)
 
 # Coding
 
