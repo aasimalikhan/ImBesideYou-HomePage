@@ -1,11 +1,11 @@
 # ImBesideYou 
 
-#Design
+# Design
 
 I have chosen to create the Data Model for IBY Home Page and it is inside the public folder
 I have also attached a drive link 
 
-#Coding
+# Coding
 
 You can use this Application by installing NodeJS in your PC
 
